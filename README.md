@@ -96,7 +96,22 @@ This work was supported by the National Research Foundation of Korea(NRF) grant 
 
 
 ### Documents
-출장신청서, C-track Hdmap https://gofile.me/78d3y/GVF1HeTRg
 
+ * Public Documents
+   출장신청서, C-track Hdmap https://gofile.me/78d3y/GVF1HeTRg
+
+ * AVL Publication Info
+   https://www.avl-scrc.com/publication
+ * Projects Info
+   https://www.avl-scrc.com/projects
+
+
+### Installation
+
+#### MORAI
+https://help-morai-sim.scrollhelp.site/
+#### CARLA
+https://carla.readthedocs.io/en/latest/
+#### CarMaker
 
 
