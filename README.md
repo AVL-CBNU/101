@@ -1,6 +1,6 @@
 # AVL 101
 
-## To Write Paper
+## 1. To Write Paper
 ### ACKNOWLEDGEMENT
 
 1. 산업부 미래형자동차 핵심기술 전문인력양성 사업
@@ -17,9 +17,9 @@ This [paper/research/work/…] was supported by Korea Institute for Advancement 
 2. 과기부 지능화혁신인재양성(Grand ICT)
 
 국문) 
-```
+`
 “본 연구는 과학기술정보통신부 및 정보통신기획평가원의 지역지능화혁신인재양성(Grand ICT연구센터) 사업의 연구결과로 수행되었음” (IITP-2023-2020-0-01462)
-```
+`
 
 영문)
 ```
