@@ -80,13 +80,12 @@ This work was supported by the National Research Foundation of Korea(NRF) grant 
 
    공유기 설정 `192.168.0.1` ID : `admin` PW : `Scrccbnu842!`
 
-1. 외부망 (KT)
+1. 외부망 (KT,    IP Address `59.31.230.6`)
 
    공유기 설정 `192.168.1.1` ID : `admin` PW : `Scrccbnu842!`
    
    포트포워딩 필요시, 허브 접속 후 개인포트 생성 사용
    
-   IP Address `59.31.230.6`
 
  * SSID `AVL` PW `scrccbnu` (2.4GHz and 5GHz combined)
 
@@ -96,7 +95,8 @@ This work was supported by the National Research Foundation of Korea(NRF) grant 
 ![image](https://github.com/AVL-CBNU/101/assets/142374573/dcc92746-4f0f-46a2-b520-bbeb3c020054)
 
 
-### 기타 장비
+### Documents
+출장신청서, C-track Hdmap https://gofile.me/78d3y/GVF1HeTRg
 
 
 
