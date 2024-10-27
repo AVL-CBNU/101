@@ -4,6 +4,14 @@
 ## 1. To Write Paper
 ### ACKNOWLEDGEMENT
 
+
+### 글로벌 인재양성
+```
+국문) "본 연구는 과학기술정보통신부 및 정보통신기획평가원의 디지털분야글로벌연구지원 연구결과로 수행되었음"(RS-2024-00425661)
+```
+```
+영문) This research was supported by the MSIT(Ministry of Science, ICT), Korea, under the Global Research Support Program in the Digital Field program(RS-2024-00425661) supervised by the IITP(Institute for Information & Communications Technology Planning & Evaluation)
+```
 ### 개방형 자율주행 SW 하드웨어 플랫폼 기술개발 (OSH)
 
 국문)
